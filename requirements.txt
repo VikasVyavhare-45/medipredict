@@ -1,0 +1,12 @@
+streamlit>=1.36
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+reportlab
+anthropic
+shap
+fpdf
+google-genai
+tiktoken==0.11.0

@@ -1,0 +1,1 @@
+[{"model":"random_forest","accuracy":0.9193548387,"precision":0.9622641509,"recall":0.9444444444,"f1":0.953271028},{"model":"logistic_regression","accuracy":0.9032258065,"precision":0.9444444444,"recall":0.9444444444,"f1":0.9444444444},{"model":"naive_bayes","accuracy":0.8548387097,"precision":0.9245283019,"recall":0.9074074074,"f1":0.9158878505}]

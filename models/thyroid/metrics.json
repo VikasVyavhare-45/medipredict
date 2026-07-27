@@ -1,0 +1,1 @@
+[{"model":"random_forest","accuracy":0.948773842,"precision":0.8829365079,"recall":0.9270833333,"f1":0.9044715447},{"model":"svm","accuracy":0.8708446866,"precision":0.8648648649,"recall":0.6,"f1":0.7084870849},{"model":"knn","accuracy":0.8692098093,"precision":0.8592814371,"recall":0.5979166667,"f1":0.7051597052}]
